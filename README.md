@@ -1,4 +1,4 @@
-How to Get a FREE VPS from GratisVPS.net in 60 Seconds
+<h1>How to Get a FREE VPS from GratisVPS.net in 60 Seconds</h1>
 
 But if you want to publish some website, or try some application without spending even a single cent, well, here is just one creative solution. GratisVPS.net-free VPS provider. Go ahead here and have your VPS in less than one minute.
 
