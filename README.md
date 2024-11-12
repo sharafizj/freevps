@@ -46,3 +46,5 @@ The VPS credentials will be sent to your registered email upon approval, which i
 Step 8: Starting to operate your VPS
 
 Congratulations, you now got a free VPS that you can use at your will: you could install anything on it host sites or deploy applications. Suppose you are a developer and want to deploy a Node.js application or even a database server, just for testing your projects. Tips for Using Your Free VPS 1. Resource Management: This is a free VPS, so be aware of the resources. Refrain from running applications that can prove resource-heavy and might get throttled.
+
+Website: https://gratisvps.net
